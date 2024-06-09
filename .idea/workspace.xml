@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="12585bd2-a029-40a8-aff5-240ecbaa076a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyLearning3xATB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240603/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240603/Lab002.py" afterDir="false" />
+    <list default="true" id="12585bd2-a029-40a8-aff5-240ecbaa076a" name="Changes" comment="Python learning Lab002">
+      <change afterPath="$PROJECT_DIR$/Ex-20240605/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240605/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240605/Lab002_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyLearning3xATB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLearning3xATB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240603/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240603/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240603/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240603/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +36,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sharmashaishav&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sharmashaishav/PyLearning3xATB.git&quot;,
+    &quot;accountId&quot;: &quot;a3915913-d1b3-452a-b6df-964b442ed172&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2hMzCD5aPFFklezHnXgoFSZYxEp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,13 +61,126 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab001 (1).executor": "Debug",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab002_1.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyLearning3xATB/Ex-20240607/Lab003.py",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab001 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex-20240605" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex-20240605/Lab001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex-20240603" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex-20240603/Lab001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab002_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex-20240605" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex-20240605/Lab002_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex-20240607/Lab003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Lab003" />
+      <item itemvalue="Python.Lab002_1" />
+      <item itemvalue="Python.Lab001" />
+      <item itemvalue="Python.Lab001 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab002_1" />
+        <item itemvalue="Python.Lab001 (1)" />
+        <item itemvalue="Python.Lab001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +197,36 @@
       <option name="presentableId" value="Default" />
       <updated>1717418607319</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python learning Lab001">
+      <option name="closed" value="true" />
+      <created>1717418981988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717418981988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python learning Lab001">
+      <option name="closed" value="true" />
+      <created>1717419000280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717419000280</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python learning Lab002">
+      <option name="closed" value="true" />
+      <created>1717419052127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717419052127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python learning Lab001" />
+    <MESSAGE value="Python learning Lab002" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python learning Lab002" />
   </component>
 </project>
