@@ -3,11 +3,10 @@
 # Create a program that takes two numbers as input and prints whether the first number is greater than, less than, or equal to the second number.
 import math
 
-num = 4
-print("The square of number 4 is", num ** 2)  # This will give value of square of 4 i.e. 4x4
-print("The cube of number 4 is", pow(num,3))  # This will give value of cube of 4 i.e. 4x4x4
-
-
+# float num
+num=float(input("Enter a number"))
+print(fr"The square of number {num} is", num ** 2)  # This will give value of square of 4 i.e. 4x4
+print(fr"The cube of number {num} is", pow(num,3))  # This will give value of cube of 4 i.e. 4x4x4
 
 Num1 = float(input("Enter the first number\n"))
 Num2 = float(input("Enter the second number\n"))
