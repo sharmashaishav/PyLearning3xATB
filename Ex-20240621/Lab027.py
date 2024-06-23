@@ -39,5 +39,7 @@ print(len(my_dict))
 print(list(my_dict.keys()))
 print(list(my_dict.values()))
 
+for k, v in my_dict.items():
+    print(k, v)
 for k, v in my_dict1.items():
     print(k, v)
