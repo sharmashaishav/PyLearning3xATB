@@ -11,8 +11,10 @@ print(type(name))
 print(id(name)) # id -> memory address where it is stored 4309895152
 print(len(name))
 # length of string ( 1 )
-#name = name.upper()
-# name = name.lower()
+name = name.upper()
+print(name)
+name = name.lower()
+print(name)
 a = name.count('A')
 print(a)
 #print(name[4]) # string index out of range

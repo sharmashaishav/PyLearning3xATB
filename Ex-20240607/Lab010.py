@@ -15,7 +15,8 @@ print(shopping_list[-1])
 
 shopping_list.append("curd")  # Add item in the end
 print(shopping_list)
-shopping_list.insert(3, "jam")  # Add item in the middle
+shopping_list.insert(3, "jam") # Add item in the middle
+shopping_list.insert(2,'chopsticks')
 print(shopping_list)
 
 shopping_list.extend(["chips", "salt"])  # Add multiple items in the end
@@ -34,5 +35,8 @@ print(shopping_list)
 my_list = [1, 2, 3, 4, True, 3.14, "Shaishav"]
 print(type(my_list))  # <class 'list'>
 print(my_list)
+
+my_set={1,2,3,4,4,5,6,6}
+print(my_set)
 
 

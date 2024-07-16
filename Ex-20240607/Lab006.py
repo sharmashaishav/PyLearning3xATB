@@ -14,6 +14,8 @@ print(name)
 # Raw String
 dir = r'C:\nomedir\some dir'
 print(dir)
+dir = 'C:\nomedir\some dir'
+print(dir)
 
 # Format of the String
 first_name = "Harry"

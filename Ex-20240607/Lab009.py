@@ -17,3 +17,9 @@ print(name)
 name = "Shaishav"
 print(name)
 print(id(name))
+
+# Escape Seq
+print("Hello \"World\"")
+print("Hello \nWorld")
+print("Hello \tWorld")
+print("Hello \bWorld")

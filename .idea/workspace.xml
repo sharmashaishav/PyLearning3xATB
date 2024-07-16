@@ -4,22 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12585bd2-a029-40a8-aff5-240ecbaa076a" name="Changes" comment="Python learning Lab002">
-      <change afterPath="$PROJECT_DIR$/Ex-20240605/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240605/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240605/Lab002_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-20240607/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyLearning3xATB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLearning3xATB.iml" afterDir="false" />
+    <list default="true" id="12585bd2-a029-40a8-aff5-240ecbaa076a" name="Changes" comment="Constructor with Calc">
+      <change afterPath="$PROJECT_DIR$/Ex-20240610/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240612/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-20240628/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASKS/Tasks_20240621/Right Triangle Star Pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex-20240603/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240603/Lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex-20240603/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240603/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240607/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240607/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240607/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240607/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240607/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240607/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240607/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240607/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240612/Tasks_20240612/Task #001_Leap_Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/TASKS/Tasks_20240612/Task #001_Leap_Year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240612/Tasks_20240612/Task #002_Triangle_Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/TASKS/Tasks_20240612/Task #002_Triangle_Classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240612/Tasks_20240612/Task #003_Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/TASKS/Tasks_20240612/Task #003_Factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240612/Tasks_20240612/Task #004_Fibonaci.py" beforeDir="false" afterPath="$PROJECT_DIR$/TASKS/Tasks_20240612/Task #004_Fibonaci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex-20240617/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex-20240617/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Task #001.py" beforeDir="false" afterPath="$PROJECT_DIR$/TASKS/Tasks_20240610/Task #001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Task #002.py" beforeDir="false" afterPath="$PROJECT_DIR$/TASKS/Tasks_20240610/Task #002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,9 @@
     &quot;accountId&quot;: &quot;a3915913-d1b3-452a-b6df-964b442ed172&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Tasks/Task #002.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -61,6 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab-028.executor": "Run",
     "Python.Lab001 (1).executor": "Debug",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
@@ -73,6 +78,35 @@
     "Python.Lab008.executor": "Run",
     "Python.Lab009.executor": "Run",
     "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
+    "Python.Right Triangle Star Pattern.executor": "Run",
+    "Python.Task #001.executor": "Run",
+    "Python.Task #002.executor": "Run",
+    "Python.Task #002_Triangle_Classifier.executor": "Run",
+    "Python.Task #003.executor": "Run",
+    "Python.Task #003_Factorial.executor": "Debug",
+    "Python.Task #004_Fibonaci.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -80,6 +114,15 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyLearning3xATB\TASKS" />
+      <recent name="C:\Users\HP\PycharmProjects\PyLearning3xATB\Ex-20240612" />
+      <recent name="C:\Users\HP\PycharmProjects\PyLearning3xATB\Ex-20240610" />
+      <recent name="C:\Users\HP\PycharmProjects\PyLearning3xATB\Tasks_20240612" />
+      <recent name="C:\Users\HP\PycharmProjects\PyLearning3xATB\Tasks" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
@@ -152,6 +195,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -167,14 +213,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex-20240614" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex-20240614/Lab015.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task #003_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex-20240612/Tasks_20240612" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex-20240612/Tasks_20240612/Task #003_Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Lab003" />
+      <item itemvalue="Python.Lab015" />
+      <item itemvalue="Python.Task #003_Factorial" />
       <item itemvalue="Python.Lab002_1" />
       <item itemvalue="Python.Lab001" />
       <item itemvalue="Python.Lab001 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab015" />
+        <item itemvalue="Python.Task #003_Factorial" />
         <item itemvalue="Python.Lab002_1" />
         <item itemvalue="Python.Lab001 (1)" />
         <item itemvalue="Python.Lab001" />
@@ -221,12 +315,235 @@
       <option name="project" value="LOCAL" />
       <updated>1717419052127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Python learning Lab002">
+      <option name="closed" value="true" />
+      <created>1717958625714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717958625714</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Python learning Lab002">
+      <option name="closed" value="true" />
+      <created>1717989639159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717989639159</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Python learning Lab002">
+      <option name="closed" value="true" />
+      <created>1717991483298</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717991483298</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1717992418877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717992418877</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1718328877649</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718328877650</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1718559041925</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718559041925</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1718568044557</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718568044557</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1718568287014</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718568287015</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1718568323592</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718568323592</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1718592192745</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718592192745</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1718593678448</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718593678448</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Python learning">
+      <option name="closed" value="true" />
+      <created>1718596361780</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718596361781</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Learning List and Lambda/Map functions">
+      <option name="closed" value="true" />
+      <created>1719055645783</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719055645784</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Learning Tuples">
+      <option name="closed" value="true" />
+      <created>1719058518073</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719058518074</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Learning Sets">
+      <option name="closed" value="true" />
+      <created>1719123930676</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719123930679</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Learning DECORATORS">
+      <option name="closed" value="true" />
+      <created>1719126819991</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1719126819991</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Learning DECORATORS">
+      <option name="closed" value="true" />
+      <created>1719128493505</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1719128493505</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Learning Dictionary">
+      <option name="closed" value="true" />
+      <created>1719128886803</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719128886803</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Learning Filters in PYTHON">
+      <option name="closed" value="true" />
+      <created>1719344451048</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719344451049</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Recursion with SUM of DIGITS">
+      <option name="closed" value="true" />
+      <created>1719386506577</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719386506578</updated>
+    </task>
+    <task id="LOCAL-00024" summary="OOPS begin">
+      <option name="closed" value="true" />
+      <created>1719515642218</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1719515642220</updated>
+    </task>
+    <task id="LOCAL-00025" summary="OOPS begin">
+      <option name="closed" value="true" />
+      <created>1719516594176</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1719516594176</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Constructor with Arguments">
+      <option name="closed" value="true" />
+      <created>1719521399786</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1719521399786</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Constructor without Arguments">
+      <option name="closed" value="true" />
+      <created>1719521417758</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1719521417758</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Constructor with Calc">
+      <option name="closed" value="true" />
+      <created>1719521821719</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1719521821719</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python learning Lab001" />
     <MESSAGE value="Python learning Lab002" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python learning Lab002" />
+    <MESSAGE value="Python learning" />
+    <MESSAGE value="Learning List and Lambda/Map functions" />
+    <MESSAGE value="Learning Tuples" />
+    <MESSAGE value="Learning Sets" />
+    <MESSAGE value="Learning DECORATORS" />
+    <MESSAGE value="Learning Dictionary" />
+    <MESSAGE value="Learning Filters in PYTHON" />
+    <MESSAGE value="Recursion with SUM of DIGITS" />
+    <MESSAGE value="OOPS begin" />
+    <MESSAGE value="Constructor with Arguments" />
+    <MESSAGE value="Constructor without Arguments" />
+    <MESSAGE value="Constructor with Calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructor with Calc" />
   </component>
 </project>
