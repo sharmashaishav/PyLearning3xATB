@@ -1,3 +1,5 @@
+import warnings
+
 global_var = 10
 def my_function():
     local_var = 11
